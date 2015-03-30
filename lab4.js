@@ -1,3 +1,4 @@
+// Katie Hadgis - 3/29/15 - HW #4 - A water texture added to the model in HW #3
 var canvas;
 var gl;
 
