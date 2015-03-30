@@ -1,1 +1,5 @@
-name, date, description
+Katie Hadgis
+March 29, 2015
+HW #4
+
+A texture added to the model from HW #3.
